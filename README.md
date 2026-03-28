@@ -11,8 +11,8 @@ Airbnb hosts often struggle to price their listings optimally — too high pushe
 
 | Dataset | Source | Size |
 - listings.csv :  [Maven Analytics / Inside Airbnb] (https://mavenanalytics.io/data-playground/airbnb-listings-reviews) | 279,712 rows, 10 cities |
-- reviews.csv:  [Maven Analytics / Inside Airbnb](https://mavenanalytics.io/data-playground/airbnb-listings-reviews) 
-- calendar.csv : [Inside Airbnb — Paris 2024](https://data.insideairbnb.com/france/ile-de-france/paris/2024-09-06/data/calendar.csv.gz) 
+- reviews.csv:  [Maven Analytics / Inside Airbnb] (https://mavenanalytics.io/data-playground/airbnb-listings-reviews) 
+- calendar.csv : [Inside Airbnb — Paris 2024] (https://data.insideairbnb.com/france/ile-de-france/paris/2024-09-06/data/calendar.csv.gz) 
 
 > Datasets are not included in this repo due to size.
 
