@@ -38,6 +38,15 @@ Airbnb hosts often struggle to price their listings optimally — too high pushe
 
 ---
 
+| Metric | Value |
+|--------|-------|
+| MAE | $132.12 |
+| RMSE | $255.63 |
+| R² | 0.5788 |
+| CV R² | 0.7624 ± 0.0020 |
+
+--- 
+
 ## Dashboard
 
 Built in **Power BI** — covers market overview, pricing by city/room type, review trends, and model performance per city.
